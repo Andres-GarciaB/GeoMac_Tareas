@@ -19,7 +19,7 @@ N = int(input("Ingresa el número de nodos que desea            N="))
 Ta = float(input("Ingrese la temperaruta al inicio.               Ta="))
 Tb = float(input("Ingrese la temperaruta al final.                Tb="))
 
-h = (b-a)/N
+h = (b-a)/(N+1)
 r = K/(h**2)
 
 def Arreglos(N,Ta,Tb):
