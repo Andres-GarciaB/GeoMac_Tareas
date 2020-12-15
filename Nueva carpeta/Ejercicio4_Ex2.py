@@ -17,7 +17,7 @@ def mesh (a, b, Nt ):
     a : float
         Valor al inicio del dominio.
     b : float
-        valor al final del dominio.
+        Valor al final del dominio.
     Nt : float
         Número de pasos en el tiempo.
 
